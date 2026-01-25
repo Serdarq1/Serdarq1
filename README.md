@@ -58,6 +58,8 @@ I built this project to better understand real-time collaboration, state synchro
 **Tech**
 Next.js · Clerk
 
+🔗 Repo: https://github.com/Serdarq1/livedocs-nextjs
+
 ---
 
 ## 🛠 Tech I work with
