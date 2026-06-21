@@ -1,78 +1,89 @@
-# Hey, I'm Serdar 👋
+# Hi, I'm Serdar
 
-I'm a junior full-stack developer who enjoys turning real problems into working products.
-Most of what I build comes from things I *actually needed* — tools for businesses, dashboards, portals, and small SaaS ideas.
+Founder of Velora and a product-focused developer who enjoys building software that solves real business problems.
 
-I care about clean UI, simple logic, and shipping things that make sense.
-
----
-
-## Projects I’m proud of
-
-### Shining Brows Expert Portal
-A mobile-first web portal built for beauty professionals to access workshops, products, videos, e-books, and share their work in a social feed.
-
-**What I built**
-- Authentication & role-based access
-- Content sections (videos, products, e-books)
-- Social feed (Instagram-style sharing)
-- Clean, responsive UI
-- Ordering system
-- and more
-
-**Tech**
-JavaScript · Tailwind · Supabase
-
-🔗 Repo: https://github.com/Serdarq1/shiningbrows-expert-app
-🌐 Live: https://experts.shiningbrowsacademy.com/login
+I combine software engineering, design, and digital marketing to create products that people actually use.
 
 ---
 
-### Spotify Recommendation App
-A personal project using the Spotify API to generate music recommendations based on user data.
+## 🚀 Current Projects
 
-**What I focused on**
-- External API integration
-- Data handling & personalization logic
-- Simple but clear UI
+### Velora
+Salon management SaaS built from scratch.
 
-**Tech**
-React · Spotify API · Tailwind · Flask
+Features:
+- Appointment scheduling
+- Staff & commission tracking
+- Revenue analytics
+- WhatsApp reminders
+- Subscription billing
+- Mobile app
 
-🔗 Repo: https://github.com/Serdarq1/spotify-dashboard
-
----
-
-### Live collaborative Documents
-A real-time collaborative document editor where multiple users can work on the same document simultaneously and see each other’s changes instantly.
-
-**Current features**
--Multiple users can edit the same document at the same time
--Changes appear live for all connected users
--Simple, distraction-free editor experience
--Designed for small teams or personal collaboration
-
-**Why I’m building this**
-I built this project to better understand real-time collaboration, state synchronization, and how modern apps handle shared data without conflicts.
-
-**Tech**
-Next.js · Clerk
-
-🔗 Repo: https://github.com/Serdarq1/livedocs-nextjs
+Tech:
+Next.js • React • FastAPI • Python • Supabase • Clerk • Tailwind CSS
 
 ---
 
-## 🛠 Tech I work with
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Python (Flask, FastAPI), Supabase
-- **Database:** PostgreSQL, SQLite
-- **Other:** Git, REST APIs, Auth flows, Clerk
+### Shining Brows Platform
+
+Professional education and e-commerce platform for beauty professionals.
+
+Features:
+- Video workshops
+- Expert portal
+- Authentication & roles
+- Product management
+- Community features
+
+Tech:
+Flask • JavaScript • Supabase • Tailwind CSS • Twilio
 
 ---
 
-## 🌱 What I’m doing now
-- Building and polishing my SaaS MVP
-- Improving my TypeScript fundamentals
-- Turning projects into portfolio-ready products
+## 🛠 Tech Stack
 
-Thanks for checking out my work 🙂
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- GSAP
+- Framer Motion
+
+### Backend
+- Python
+- FastAPI
+- Flask
+- Supabase
+- PostgreSQL
+
+### Infrastructure
+- Vercel
+- Render
+- GitHub
+- Clerk
+
+### Marketing & Growth
+- Meta Ads
+- Conversion Optimization
+- Social Media Strategy
+- AI Automation
+
+---
+
+## 📈 What I Build
+
+- SaaS Products
+- Business Dashboards
+- Premium Websites
+- Internal Tools
+
+---
+
+## 🌐 Links
+
+Website: https://veloraappy.com
+
+GitHub: https://github.com/Serdarq1
+
+Email: serdar.akova5@gmail.com
