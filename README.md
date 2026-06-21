@@ -67,8 +67,6 @@ Flask • JavaScript • Supabase • Tailwind CSS • Twilio
 - Meta Ads
 - Conversion Optimization
 - Social Media Strategy
-- AI Automation
-
 ---
 
 ## 📈 What I Build
