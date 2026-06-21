@@ -82,6 +82,4 @@ Flask • JavaScript • Supabase • Tailwind CSS • Twilio
 
 Website: https://veloraappy.com
 
-GitHub: https://github.com/Serdarq1
-
 Email: serdar.akova5@gmail.com
